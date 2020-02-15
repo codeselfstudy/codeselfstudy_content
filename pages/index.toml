@@ -1,5 +1,5 @@
 title = "Code Self Study"
-html_titles = "Learn Computer Programming, Python, JavaScript at Our Bootcamp Alternative"
+html_title = "Learn Computer Programming, Python, JavaScript at Our Bootcamp Alternative"
 
 body = """
 <div class="hero homepage-hero bg-circuit-board">
