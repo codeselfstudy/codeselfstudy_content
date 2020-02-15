@@ -8,4 +8,4 @@ path: "/about/"
 
 We organize several tech meetup groups in Berkeley, California with over 5,000 members in total. We also organize events around the San Francisco Bay Area.
 
-<a className="button is-primary is-large" href="https://www.meetup.com/codeselfstudy/" >Join the Meetup Group</a>
+<a class="button is-primary is-large" href="https://www.meetup.com/codeselfstudy/" >Join the Meetup Group</a>
