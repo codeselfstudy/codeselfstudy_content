@@ -1,11 +1,11 @@
 ---
-title: About
-html_title: The About Page
+title: About Us
+html_title: About Us
 author: Josh
 date: "2020-02-13"
 path: "/about/"
 ---
 
-This is a sample "about" page.
+We organize several tech meetup groups in Berkeley, California with over 5,000 members in total. We also organize events around the San Francisco Bay Area.
 
-![cat](https://placekitten.com/500/500)
+<a className="button is-primary is-large" href="https://www.meetup.com/codeselfstudy/" >Join the Meetup Group</a>
