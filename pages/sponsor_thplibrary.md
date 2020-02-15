@@ -8,4 +8,4 @@ path: "/sponsor/thp-library/"
 
 The Tarea Hall Pittman South Branch library in Berkeley provides meeting space to our group.
 
-<a className="button is-large is-link" href="https://www.berkeleypubliclibrary.org/locations/tarea-hall-pittman-south-branch" >Visit the library website</a>
+<a class="button is-large is-link" href="https://www.berkeleypubliclibrary.org/locations/tarea-hall-pittman-south-branch" >Visit the library website</a>

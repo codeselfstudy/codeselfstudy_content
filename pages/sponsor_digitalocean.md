@@ -10,4 +10,4 @@ Digital Ocean hosts parts of our website and offers $50 credit on their hosting 
 
 <blockquote>"Simple Cloud Hosting, Built for Developers."</blockquote>
 
-<a className="is-large button is-link" href="https://m.do.co/c/974e5be9397c">Sign up for $50 hosting credit</a>
+<a class="is-large button is-link" href="https://m.do.co/c/974e5be9397c">Sign up for $50 hosting credit</a>

@@ -8,7 +8,7 @@ path: "/learn/"
 
 Here are some tips on learning how to code for free using online resources.
 
-<h2 className="title is-2">1. Decide on what kinds of things you want to build</h2>
+<h2 class="title is-2">1. Decide on what kinds of things you want to build</h2>
 
 There are many kinds of programming:
 
@@ -23,7 +23,7 @@ There are many kinds of programming:
 
 If you aren't sure yet, don't worry &mdash; you can skip to the books and courses section below and just start with general basics until you find a specific topic to focus on. You can also ask us specific questions in <a href="https://forum.codeselfstudy.com/">the forum</a>.
 
-<h2 className="title is-2">2. Choose a programming language</h2>
+<h2 class="title is-2">2. Choose a programming language</h2>
 
 The first programming languages you choose might depend on what you want to build. The table below isn't meant to be comprehensive, but just lists some possible starting points based on your interests.
 
@@ -36,7 +36,7 @@ want a recommendation on what language to choose, skip
 to the courses section below and start with the free
 "CS50" course.
 
-<table className="table is-striped">
+<table class="table is-striped">
 <thead>
 <tr>
 <th>Goals</th>
@@ -97,18 +97,18 @@ HTML, CSS, JavaScript, Node.js, Python, Ruby
 </tbody>
 </table>
 
-<h2 className="title is-2">3. Find a course and/or book</h2>
+<h2 class="title is-2">3. Find a course and/or book</h2>
 
 Here are some free courses and books to learn from.
 
-<h3 className="title is-3">Courses</h3>
-<div className="box">
-<h4 className="title is-4">Harvard CS50</h4>
+<h3 class="title is-3">Courses</h3>
+<div class="box">
+<h4 class="title is-4">Harvard CS50</h4>
 
 If you aren't sure where to start, give <a href="https://online-learning.harvard.edu/course/cs50-introduction-computer-science">Harvard's free CS50 course a try</a>. It covers the basics.
 </div>
-<div className="box">
-<h4 className="title is-4">MIT 6.00</h4>
+<div class="box">
+<h4 class="title is-4">MIT 6.00</h4>
 
 MIT offers two free, introductory courses that teach computer science using Python:
 
@@ -118,20 +118,20 @@ MIT offers two free, introductory courses that teach computer science using Pyth
 </ul>
 </div>
 
-<h3 className="title is-3">Books</h3>
-<div className="box">
-<h4 className="title is-4">You Don't Know JavaScript (YDKJS)</h4>
+<h3 class="title is-3">Books</h3>
+<div class="box">
+<h4 class="title is-4">You Don't Know JavaScript (YDKJS)</h4>
 
 The YDKJS series is <a href="https://github.com/getify/You-Dont-Know-JS#you-dont-know-js-book-series">free to read online</a>.
 
 </div>
-<div className="box">
-<h4 className="title is-4">Automate the Boring Stuff with Python</h4>
+<div class="box">
+<h4 class="title is-4">Automate the Boring Stuff with Python</h4>
 
 <a href="https://automatetheboringstuff.com/2e/">Automate the Boring Stuff with Python</a> is a free online book on how to learn Python through practical projects.
 </div>
 
-<h2 className="title is-2">4. Join a community</h2>
+<h2 class="title is-2">4. Join a community</h2>
 
 It helps to be able to ask questions when you get stuck.
 
