@@ -3,7 +3,7 @@ title: How to Send Desktop Notifications in Linux
 date: 2018-05-11 20:31
 category: GNU/Linux
 tags: Ubuntu
-authors: Josh
+author: Josh
 path: "/blog/send-desktop-notifications-linux/"
 ---
 

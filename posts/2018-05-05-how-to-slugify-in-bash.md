@@ -4,7 +4,7 @@ html_title: How to Slugify Strings in Bash for Static Site Generators
 date: 2018-05-05 21:16
 category: Shell Scripting
 tags: Bash, Static Site Generators
-authors: Josh
+author: Josh
 path: "/blog/how-to-slugify-strings-in-bash/"
 ---
 

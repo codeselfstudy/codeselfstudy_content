@@ -2,7 +2,7 @@
 title: How to Reindent Lines in Vim
 date: 2018-05-02 14:45
 category: Vim
-authors: Josh
+author: Josh
 path: "/blog/reindent-lines-in-vim/"
 ---
 

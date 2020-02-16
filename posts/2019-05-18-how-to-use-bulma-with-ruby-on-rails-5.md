@@ -2,7 +2,7 @@
 title: How to use Bulma with Rails 5
 date: 2019-05-18 20:29
 category: Ruby
-authors: Josh
+author: Josh
 path: "/blog/bulma-rails-5/"
 ---
 

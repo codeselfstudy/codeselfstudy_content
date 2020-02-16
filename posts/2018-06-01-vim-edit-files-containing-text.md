@@ -2,7 +2,7 @@
 title: How to Search Multiple Files for Text and Edit Them in Vim
 date: 2018-06-01 11:24
 category: Vim
-authors: Josh
+author: Josh
 path: "/blog/vim-search-edit-multiple-files/"
 ---
 

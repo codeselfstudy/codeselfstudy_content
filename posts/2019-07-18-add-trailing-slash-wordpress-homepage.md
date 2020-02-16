@@ -3,7 +3,7 @@ title: WordPress: How to Add a Trailing Slash to the Homepage's Canonical URL
 date: 2019-07-18 12:03
 category: WordPress
 tags: SEO
-authors: Josh
+author: Josh
 path: "/blog/wordpress-canonical-url-homepage/"
 ---
 

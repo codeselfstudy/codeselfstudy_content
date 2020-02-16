@@ -2,7 +2,7 @@
 title: How to Delete All node_modules Directories
 date: 2018-05-30 14:58
 category: Node.js
-authors: Josh
+author: Josh
 path: "/blog/how-to-delete-all-node_modules-folders/"
 ---
 

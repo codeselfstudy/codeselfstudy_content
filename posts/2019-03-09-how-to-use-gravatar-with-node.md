@@ -2,7 +2,7 @@
 title: How to Generate Gravatar Images with JavaScript/Node
 date: 2019-03-09 22:59
 category: JavaScript
-authors: Josh
+author: Josh
 path: "/blog/gravatar-javascript-node/"
 ---
 
