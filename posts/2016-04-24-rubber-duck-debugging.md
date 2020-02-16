@@ -1,6 +1,7 @@
 ---
 title: Rubber Duck Debugging
 date: 2016-04-24
+path: "/blog/rubber-duck-debugging/"
 ---
 
 Have you ever asked someone a debugging question and then realized the answer yourself while you were walking through the explanation of the error? There is a debugging technique called <a href="https://en.wikipedia.org/wiki/Rubber_duck_debugging">rubber duck debugging</a> that works in similar way.

@@ -1,9 +1,11 @@
+---
 title: WordPress: How to Add a Trailing Slash to the Homepage's Canonical URL
 date: 2019-07-18 12:03
 category: WordPress
 tags: SEO
-slug: wordpress-canonical-url-homepage
 authors: Josh
+path: "/blog/wordpress-canonical-url-homepage/"
+---
 
 If you're using the [Yoast SEO plugin](https://wordpress.org/plugins/wordpress-seo/) for WordPress, it will add [canonical URL metatags](https://moz.com/learn/seo/canonicalization) on your WordPress pages. The problem is that, if you WordPress site is in a subdirectory, the plugin might use the wrong canonical URL for the homepage.
 

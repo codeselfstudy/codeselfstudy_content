@@ -1,6 +1,7 @@
 ---
 title: Using ex to bulk-edit files
 date: 2017-12-03
+path: "/blog/using-ex-to-bulk-edit-files/"
 ---
 
 I previously wrote about <a href="https://codeselfstudy.com/blogs/command-line-scripting-with-ed-and-ex">command line scripting with ed and ex</a>. I just had an opportunity to put ex into use in practice.

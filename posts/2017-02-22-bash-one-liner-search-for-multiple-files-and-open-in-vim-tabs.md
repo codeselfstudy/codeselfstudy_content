@@ -1,6 +1,7 @@
 ---
 title: Bash One-Liner: Search for Multiple Files and Open in Vim Tabs
 date: 2017-02-22
+path: "/blog/bash-one-liner-search-for-multiple-files-and-open-in-vim-tabs/"
 ---
 
 I was looking for a group of <code>.desktop</code> files on Ubuntu. I wanted to examine the contents after finding them. I discovered a nice command line trick along the way.

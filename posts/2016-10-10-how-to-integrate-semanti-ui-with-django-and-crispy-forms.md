@@ -1,6 +1,7 @@
 ---
 title: How to Integrate Semantic UI with Django and Crispy Forms
 date: 2016-10-10
+path: "/blog/how-to-integrate-semantic-ui-with-django-and-crispy-forms/"
 ---
 
 This post explains how to integrate <a href="http://semantic-ui.com/">Semantic UI</a> with <a href="https://www.djangoproject.com/">Django's</a> <a href="http://django-crispy-forms.readthedocs.io/en/latest/">Crispy Forms</a>. After a lot of troubleshooting, it started working. It should be possible to improve parts of this process in the future, but it works for now.

@@ -1,6 +1,7 @@
 ---
 title: Python Arguments __defaults__
 date: 2017-02-04
+path: "/blog/python-arguments-__defaults__/"
 ---
 
 There is an interesting <a href="https://docs.python.org/dev/tutorial/controlflow.html#more-on-defining-functions">example</a> in the Python docs:

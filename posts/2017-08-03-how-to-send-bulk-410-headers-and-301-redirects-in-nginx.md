@@ -1,6 +1,7 @@
 ---
 title: How to Send Bulk 410 Headers and 301 Redirects in Nginx
 date: 2017-08-03
+path: "/blog/how-to-send-bulk-410-headers-and-301-redirects-in-nginx/"
 ---
 
 <a href="https://www.google.com/webmasters/">Google's Webmaster Tools</a> warns you when there are a lot of <em>404 Not Found</em> pages found on your website. If you've just deleted a lot of spam from a site, Google might keep recrawling those URLs as long as they send 404 headers.

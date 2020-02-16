@@ -1,6 +1,7 @@
 ---
 title: How to Install Linux
 date: 2015-09-22
+path: "/blog/how-to-install-linux/"
 ---
 
 A few people have expressed interest in setting up Linux as a development environment. There are a few ways that it can be done.

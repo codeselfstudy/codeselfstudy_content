@@ -1,6 +1,7 @@
 ---
 title: BARTCrimes.com and How to Sign Up for BART Police Reports
 date: 2017-08-04
+path: "/blog/bartcrimescom-and-how-to-sign-up-for-bart-police-reports/"
 ---
 
 Yesterday, I saw a new site called BART Crimes that makes it easier to track crime incidents on the BART. It's a creative use of programming to make information more easily available. Check out the links below:

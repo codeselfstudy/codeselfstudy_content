@@ -1,6 +1,7 @@
 ---
 title: Microsoft Recruiting Employees With Autism
 date: 2015-04-07
+path: "/blog/microsoft-recruiting-employees-with-autism/"
 ---
 
 <blockquote>The launch of a new pilot program positions Microsoft as the latest corporate giant looking to tap the employment potential of those on the spectrum.

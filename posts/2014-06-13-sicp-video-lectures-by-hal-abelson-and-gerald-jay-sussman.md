@@ -1,6 +1,7 @@
 ---
 title: SICP Video Lectures by Hal Abelson and Gerald Jay Sussman
 date: 2014-06-13
+path: "/blog/sicp-video-lectures-by-hal-abelson-and-gerald-jay-sussman/"
 ---
 
 This looks useful:

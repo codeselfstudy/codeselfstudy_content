@@ -1,6 +1,7 @@
 ---
 title: How to Login over SSH without a Password (Ubuntu)
 date: 2016-02-20
+path: "/blog/how-to-login-over-ssh-without-a-password-ubuntu/"
 ---
 
 This page has instructions on how to get started with passwordless login to remote servers over SSH.

@@ -1,6 +1,7 @@
 ---
 title: Problems with Copying and Pasting Code in Vim?
 date: 2017-04-03
+path: "/blog/problems-with-copying-and-pasting-code-in-vim/"
 ---
 
 I've written a tutorial on <a href="https://medium.com/@joshhostels/how-to-copy-paste-with-vim-registers-902d96e5c493">how to copy/paste from Vim registers</a>. I wanted to add a few more tips:

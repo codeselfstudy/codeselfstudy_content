@@ -1,6 +1,7 @@
 ---
 title: Trace Recursion in Scheme / Racket
 date: 2014-06-29
+path: "/blog/trace-recursion-in-scheme-racket/"
 ---
 
 The topic of tracing recursion in Scheme came up at today's SICP study group meeting. It can be done with Dr. Racket.

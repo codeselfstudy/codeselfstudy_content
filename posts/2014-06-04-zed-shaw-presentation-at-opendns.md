@@ -1,6 +1,7 @@
 ---
 title: Zed Shaw Presentation at OpenDNS
 date: 2014-06-04
+path: "/blog/zed-shaw-presentation-at-opendns/"
 ---
 
 Last night I went to Python night at OpenDNS where Zed Shaw was speaking about learning Python. Here are some notes from the presentation:

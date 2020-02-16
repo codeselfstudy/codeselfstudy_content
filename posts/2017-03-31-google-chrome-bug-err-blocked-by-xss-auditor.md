@@ -1,6 +1,7 @@
 ---
 title: Google Chrome Bug: ERR_BLOCKED_BY_XSS_AUDITOR
 date: 2017-03-31
+path: "/blog/google-chrome-bug-err_blocked_by_xss_auditor/"
 ---
 
 This morning I was trying to write a quick blog post here, but when I submitted it, I got this error from Google Chrome:

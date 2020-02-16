@@ -1,9 +1,12 @@
+---
 title: How to Slugify Strings in Bash
 html_title: How to Slugify Strings in Bash for Static Site Generators
 date: 2018-05-05 21:16
 category: Shell Scripting
 tags: Bash, Static Site Generators
 authors: Josh
+path: "/blog/how-to-slugify-strings-in-bash/"
+---
 
 In order to create new posts in static site generators, I'm using a Makefile command to create slugified filenames.
 

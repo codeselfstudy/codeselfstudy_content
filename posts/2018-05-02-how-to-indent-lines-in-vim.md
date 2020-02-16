@@ -1,8 +1,10 @@
+---
 title: How to Reindent Lines in Vim
 date: 2018-05-02 14:45
 category: Vim
-slug: reindent-lines-in-vim
 authors: Josh
+path: "/blog/reindent-lines-in-vim/"
+---
 
 Reindenting files helps keep code neat. In Vim, you can reindent an entire file from normal mode (press `ESC` to get there) by typing `gg=G`.
 

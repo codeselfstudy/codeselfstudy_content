@@ -1,6 +1,7 @@
 ---
 title: How to Manage Python Virtual Environments in PyCharm
 date: 2016-02-21
+path: "/blog/how-to-manage-python-virtual-environments-in-pycharm/"
 ---
 
 Creating virtual environments on Windows can be challenging. (There is <a href="http://codeselfstudy.com/blogs/python-virtualenv-and-virtualenvwrapper-tutorial-for-ubuntu-1404">an easier way on Linux and Mac</a>.) When on Windows, PyCharm can help you set up and manage your virtual environments.

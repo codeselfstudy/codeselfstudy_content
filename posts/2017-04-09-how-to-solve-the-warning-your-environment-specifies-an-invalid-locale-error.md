@@ -1,6 +1,7 @@
 ---
 title: How to solve the "WARNING! Your environment specifies an invalid locale" Error
 date: 2017-04-09
+path: "/blog/how-to-solve-the-warning-your-environment-specifies-an-invalid-locale-error/"
 ---
 
 On logging into a remote server, I got an error that began with: <code>WARNING! Your environment specifies an invalid locale.</code>. This is how I fixed it:

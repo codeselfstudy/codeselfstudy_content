@@ -1,6 +1,7 @@
 ---
 title: MathJax Cheatsheets and Introduction
 date: 2017-03-31
+path: "/blog/mathjax-cheatsheets-and-introduction/"
 ---
 
 <a href="https://www.mathjax.org/">MathJax</a> is a JavaScript library that allows people to embed mathematical formulas in web pages using various formats like TeX, MathML, and ASCIImath. MathJax is installed on this website, so anyone can use it in the forum, blogs, and wiki.

@@ -1,9 +1,11 @@
+---
 title: How to Deploy an Express App on Heroku with Postgres and Knex
 date: 2018-05-23 15:33
 category: Node.js
 tags: Heroku, Postgres
-slug: deploy-node-postgres-heroku
 authors: Josh
+path: "/blog/deploy-node-postgres-heroku/"
+---
 
 Here are some quick notes on creating and deploying a node app on Heroku with Knex and Postgres.
 

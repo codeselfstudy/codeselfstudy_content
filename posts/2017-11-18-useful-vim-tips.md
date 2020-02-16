@@ -1,6 +1,7 @@
 ---
 title: Useful Vim Tips
 date: 2017-11-18
+path: "/blog/useful-vim-tips/"
 ---
 
 I found a site with some interesting Vim tips. Check out these links:

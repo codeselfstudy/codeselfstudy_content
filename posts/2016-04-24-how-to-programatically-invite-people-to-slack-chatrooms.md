@@ -1,6 +1,7 @@
 ---
 title: How to Programatically Invite People to Slack Chatrooms
 date: 2016-04-24
+path: "/blog/how-to-programatically-invite-people-to-slack-chatrooms/"
 ---
 
 There are scripts that one can use (like <a href="https://github.com/rauchg/slackin">Slakin</a>) that let you create user registration forms for Slack. I was poking around in the Slakin code and the Slack API and I extracted the part that actually invites the users. You can use this code to create your own custom invite tools for Slack.

@@ -1,8 +1,10 @@
+---
 title: How to use Bulma with Rails 5
 date: 2019-05-18 20:29
 category: Ruby
-slug: bulma-rails-5
 authors: Josh
+path: "/blog/bulma-rails-5/"
+---
 
 Using [Bulma CSS framework](https://bulma.io/) in Rails is pretty easy.
 

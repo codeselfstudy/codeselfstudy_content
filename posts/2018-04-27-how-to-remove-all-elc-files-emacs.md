@@ -1,6 +1,7 @@
 ---
 title: How to Remove All .elc Files (Emacs)
 date: 2018-04-27
+path: "/blog/how-to-remove-all-elc-files-emacs/"
 ---
 
 When switching back to <a href="https://i3wm.org/">i3 window manager</a>, my Emacs stopped working. I kept getting the error below:

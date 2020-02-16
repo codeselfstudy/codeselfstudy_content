@@ -1,6 +1,7 @@
 ---
 title: Two Nice Vim Colorschemes
 date: 2017-08-27
+path: "/blog/two-nice-vim-colorschemes/"
 ---
 
 At the moment, these are the colorschemes I'm using in Vim.

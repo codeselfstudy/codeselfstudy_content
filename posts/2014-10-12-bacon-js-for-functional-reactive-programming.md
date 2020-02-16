@@ -1,6 +1,7 @@
 ---
 title: Bacon.js for Functional Reactive Programming
 date: 2014-10-12
+path: "/blog/baconjs-for-functional-reactive-programming/"
 ---
 
 I'm at a presentation by <a href="http://blog.thepete.net/">Pete Hodgson</a> on <a href="http://en.wikipedia.org/wiki/Functional_reactive_programming">functional reactive programming</a> at Silicon Valley Code Camp, and he's covering <a href="http://baconjs.github.io/">Bacon.js</a>.<br /><br />Bacon.js:

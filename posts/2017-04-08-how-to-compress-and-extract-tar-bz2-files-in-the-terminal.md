@@ -1,6 +1,7 @@
 ---
 title: How to Compress and Extract tar.bz2 Files in the Terminal
 date: 2017-04-08
+path: "/blog/how-to-compress-and-extract-tarbz2-files-in-the-terminal/"
 ---
 
 Quick tip: to create a backup of a directory (like a website) with a <code>.tar.bz2</code> format, you can compress it like this:

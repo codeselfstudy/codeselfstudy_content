@@ -1,6 +1,7 @@
 ---
 title: How to Calculate Standard Deviation in Python
 date: 2015-11-30
+path: "/blog/how-to-calculate-standard-deviation-in-python/"
 ---
 
 Here's a quick script for calculating standard deviation in Python without downloading external libraries. Please leave a comment below, if you can suggest improvements.

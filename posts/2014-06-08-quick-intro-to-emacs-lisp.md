@@ -1,6 +1,7 @@
 ---
 title: Quick Intro to Emacs Lisp
 date: 2014-06-08
+path: "/blog/quick-intro-to-emacs-lisp/"
 ---
 
 People who are just starting with Emacs (like me) might find this useful:

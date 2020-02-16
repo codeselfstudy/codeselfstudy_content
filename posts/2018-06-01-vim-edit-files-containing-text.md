@@ -1,8 +1,10 @@
+---
 title: How to Search Multiple Files for Text and Edit Them in Vim
 date: 2018-06-01 11:24
 category: Vim
-slug: vim-search-edit-multiple-files
 authors: Josh
+path: "/blog/vim-search-edit-multiple-files/"
+---
 
 Here's a quick one-liner for searching and editing files that contain specific text. This tutorial uses Vim, but it should work with any editor that accepts command line arguments.
 

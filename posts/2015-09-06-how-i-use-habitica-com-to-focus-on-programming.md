@@ -1,6 +1,7 @@
 ---
 title: How I Use Habitica.com to Focus on Programming
 date: 2015-09-06
+path: "/blog/how-i-use-habiticacom-to-focus-on-programming/"
 ---
 
 I've started using <a href="https://habitica.com/">Habitica.com</a> (formerly HabitRPG) to manage my to-do lists. It turns your to-do list into a role playing game.

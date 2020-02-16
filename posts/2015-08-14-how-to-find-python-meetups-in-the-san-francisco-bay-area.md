@@ -1,6 +1,7 @@
 ---
 title: How to Find Python Meetups in the San Francisco Bay Area
 date: 2015-08-14
+path: "/blog/how-to-find-python-meetups-in-the-san-francisco-bay-area/"
 ---
 
 Here's a list of the local Python groups that I know about. (Note: our Berkeley meetups are listed on our <a href="/events">events page</a>.)

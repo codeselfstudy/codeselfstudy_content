@@ -1,6 +1,7 @@
 ---
 title: Fixing a Docker Bug: /var/run/docker.sock
 date: 2016-08-13
+path: "/blog/fixing-a-docker-bug-varrundockersock/"
 ---
 
 I encountered a Docker bug that took a long time to fix. Every time I tried to run Docker on Ubuntu 14.04, I would see this error:

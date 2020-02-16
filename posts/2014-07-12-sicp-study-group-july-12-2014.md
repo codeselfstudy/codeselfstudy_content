@@ -1,6 +1,7 @@
 ---
 title: SICP Study Group, July 12, 2014
 date: 2014-07-12
+path: "/blog/sicp-study-group-july-12-2014/"
 ---
 
 A couple of us met today to check in about progress on the SICP book. Here are links to some of the topics discussed:

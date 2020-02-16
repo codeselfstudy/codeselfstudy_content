@@ -1,6 +1,7 @@
 ---
 title: How to Upgrade All Pip Packages (Python)
 date: 2018-04-07
+path: "/blog/how-to-upgrade-all-pip-packages-python/"
 ---
 
 Here's a quick and easy way to upgrade all outdated pip/Python packages on a computer. It worked for me on Ubuntu 16.04, and looks like it will work on Mac and Windows too.

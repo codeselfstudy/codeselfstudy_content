@@ -1,6 +1,7 @@
 ---
 title: Startup Job Fair in Berkeley, January 2016
 date: 2015-12-21
+path: "/blog/startup-job-fair-in-berkeley-january-2016/"
 ---
 
 If you're looking for a job or for employees, don't miss this job fair in Berkeley!

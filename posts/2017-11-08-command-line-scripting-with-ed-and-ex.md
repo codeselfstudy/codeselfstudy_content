@@ -1,6 +1,7 @@
 ---
 title: Command line scripting with ed and ex
 date: 2017-11-08
+path: "/blog/command-line-scripting-with-ed-and-ex/"
 ---
 
 I just learned a little editing trick with <a href="https://en.wikipedia.org/wiki/Ed_(text_editor)">ed</a> and wanted to write some quick notes here.

@@ -1,9 +1,11 @@
+---
 title: How to Send Desktop Notifications in Linux
 date: 2018-05-11 20:31
 category: GNU/Linux
 tags: Ubuntu
-slug: send-desktop-notifications-linux
 authors: Josh
+path: "/blog/send-desktop-notifications-linux/"
+---
 
 This post explains how to send custom desktop notifications in GNU/Linux. These commands were tested on Ubuntu 16.04.
 

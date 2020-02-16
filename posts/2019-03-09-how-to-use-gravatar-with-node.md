@@ -1,8 +1,10 @@
+---
 title: How to Generate Gravatar Images with JavaScript/Node
 date: 2019-03-09 22:59
 category: JavaScript
-slug: gravatar-javascript-node
 authors: Josh
+path: "/blog/gravatar-javascript-node/"
+---
 
 Someone asked a question at the meetup today on how to create avatars on a site. The fastest method is probably to use Gravatar. Gravatar is a service that displays user profile pictures based on their email addresses. If the user hasn't signed up with Gravatar, a variety of default avatars can be shown.
 
