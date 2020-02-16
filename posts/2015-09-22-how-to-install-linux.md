@@ -1,6 +1,7 @@
 ---
 title: How to Install Linux
 date: 2015-09-22
+author: Josh
 path: "/blog/how-to-install-linux/"
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: How to Upgrade All Pip Packages (Python)
 date: 2018-04-07
+author: Josh
 path: "/blog/how-to-upgrade-all-pip-packages-python/"
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: How to Programatically Invite People to Slack Chatrooms
 date: 2016-04-24
+author: Josh
 path: "/blog/how-to-programatically-invite-people-to-slack-chatrooms/"
 ---
 

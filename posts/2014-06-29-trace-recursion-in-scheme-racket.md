@@ -1,6 +1,7 @@
 ---
 title: Trace Recursion in Scheme / Racket
 date: 2014-06-29
+author: Josh
 path: "/blog/trace-recursion-in-scheme-racket/"
 ---
 

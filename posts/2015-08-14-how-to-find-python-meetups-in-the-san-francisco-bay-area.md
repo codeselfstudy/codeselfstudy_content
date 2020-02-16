@@ -1,6 +1,7 @@
 ---
 title: How to Find Python Meetups in the San Francisco Bay Area
 date: 2015-08-14
+author: Josh
 path: "/blog/how-to-find-python-meetups-in-the-san-francisco-bay-area/"
 ---
 

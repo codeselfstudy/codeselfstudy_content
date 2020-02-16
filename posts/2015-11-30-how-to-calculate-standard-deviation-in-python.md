@@ -1,6 +1,7 @@
 ---
 title: How to Calculate Standard Deviation in Python
 date: 2015-11-30
+author: Josh
 path: "/blog/how-to-calculate-standard-deviation-in-python/"
 ---
 

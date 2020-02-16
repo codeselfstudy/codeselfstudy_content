@@ -1,6 +1,7 @@
 ---
 title: Microsoft Recruiting Employees With Autism
 date: 2015-04-07
+author: Josh
 path: "/blog/microsoft-recruiting-employees-with-autism/"
 ---
 

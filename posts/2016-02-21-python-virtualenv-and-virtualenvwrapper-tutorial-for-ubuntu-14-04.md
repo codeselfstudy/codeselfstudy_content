@@ -1,6 +1,7 @@
 ---
 title: Python Virtualenv and Virtualenvwrapper Tutorial for Ubuntu 14.04
 date: 2016-02-21
+author: Josh
 path: "/blog/python-virtualenv-and-virtualenvwrapper-tutorial-for-ubuntu-1404/"
 ---
 

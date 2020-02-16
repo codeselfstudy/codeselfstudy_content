@@ -1,6 +1,7 @@
 ---
 title: How to Manage Python Virtual Environments in PyCharm
 date: 2016-02-21
+author: Josh
 path: "/blog/how-to-manage-python-virtual-environments-in-pycharm/"
 ---
 

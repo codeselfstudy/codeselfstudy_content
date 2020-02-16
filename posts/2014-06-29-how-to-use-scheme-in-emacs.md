@@ -1,6 +1,7 @@
 ---
 title: How to Use Scheme in Emacs
 date: 2014-06-29
+author: Josh
 path: "/blog/how-to-use-scheme-in-emacs/"
 ---
 

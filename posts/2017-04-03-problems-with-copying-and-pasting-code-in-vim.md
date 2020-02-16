@@ -1,6 +1,7 @@
 ---
 title: Problems with Copying and Pasting Code in Vim?
 date: 2017-04-03
+author: Josh
 path: "/blog/problems-with-copying-and-pasting-code-in-vim/"
 ---
 

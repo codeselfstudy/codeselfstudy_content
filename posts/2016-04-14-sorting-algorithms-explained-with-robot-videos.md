@@ -1,6 +1,7 @@
 ---
 title: Sorting Algorithms Explained with Robot Videos
 date: 2016-04-14
+author: Josh
 path: "/blog/sorting-algorithms-explained-with-robot-videos/"
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: How to Install Erlang's egd Library in Elixir
 date: 2017-09-02
+author: Josh
 path: "/blog/how-to-install-erlangs-egd-library-in-elixir/"
 ---
 

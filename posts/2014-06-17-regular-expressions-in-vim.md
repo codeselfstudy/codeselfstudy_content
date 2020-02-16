@@ -1,6 +1,7 @@
 ---
 title: Regular Expressions in Vim
 date: 2014-06-17
+author: Josh
 path: "/blog/regular-expressions-in-vim/"
 ---
 

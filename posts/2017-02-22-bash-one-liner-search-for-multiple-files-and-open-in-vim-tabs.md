@@ -1,6 +1,7 @@
 ---
 title: Bash One-Liner: Search for Multiple Files and Open in Vim Tabs
 date: 2017-02-22
+author: Josh
 path: "/blog/bash-one-liner-search-for-multiple-files-and-open-in-vim-tabs/"
 ---
 

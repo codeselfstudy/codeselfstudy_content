@@ -1,6 +1,7 @@
 ---
 title: How to Pronounce "Ubuntu"
 date: 2017-05-01
+author: Josh
 path: "/blog/how-to-pronounce-ubuntu/"
 ---
 

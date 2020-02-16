@@ -1,6 +1,7 @@
 ---
 title: How to solve the "WARNING! Your environment specifies an invalid locale" Error
 date: 2017-04-09
+author: Josh
 path: "/blog/how-to-solve-the-warning-your-environment-specifies-an-invalid-locale-error/"
 ---
 

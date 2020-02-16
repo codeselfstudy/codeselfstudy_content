@@ -1,6 +1,7 @@
 ---
 title: Python Arguments __defaults__
 date: 2017-02-04
+author: Josh
 path: "/blog/python-arguments-__defaults__/"
 ---
 

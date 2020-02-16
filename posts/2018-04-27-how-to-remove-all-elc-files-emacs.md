@@ -1,6 +1,7 @@
 ---
 title: How to Remove All .elc Files (Emacs)
 date: 2018-04-27
+author: Josh
 path: "/blog/how-to-remove-all-elc-files-emacs/"
 ---
 

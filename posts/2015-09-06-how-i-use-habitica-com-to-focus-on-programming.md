@@ -1,6 +1,7 @@
 ---
 title: How I Use Habitica.com to Focus on Programming
 date: 2015-09-06
+author: Josh
 path: "/blog/how-i-use-habiticacom-to-focus-on-programming/"
 ---
 

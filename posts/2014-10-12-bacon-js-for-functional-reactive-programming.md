@@ -1,6 +1,7 @@
 ---
 title: Bacon.js for Functional Reactive Programming
 date: 2014-10-12
+author: Josh
 path: "/blog/baconjs-for-functional-reactive-programming/"
 ---
 

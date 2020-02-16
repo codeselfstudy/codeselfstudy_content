@@ -1,6 +1,7 @@
 ---
 title: BARTCrimes.com and How to Sign Up for BART Police Reports
 date: 2017-08-04
+author: Josh
 path: "/blog/bartcrimescom-and-how-to-sign-up-for-bart-police-reports/"
 ---
 

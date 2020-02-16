@@ -1,6 +1,7 @@
 ---
 title: Two Nice Vim Colorschemes
 date: 2017-08-27
+author: Josh
 path: "/blog/two-nice-vim-colorschemes/"
 ---
 

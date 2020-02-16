@@ -1,6 +1,7 @@
 ---
 title: Zed Shaw Presentation at OpenDNS
 date: 2014-06-04
+author: Josh
 path: "/blog/zed-shaw-presentation-at-opendns/"
 ---
 

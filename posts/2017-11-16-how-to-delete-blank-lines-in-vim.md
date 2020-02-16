@@ -1,6 +1,7 @@
 ---
 title: How to Delete Blank Lines in Vim
 date: 2017-11-16
+author: Josh
 path: "/blog/how-to-delete-blank-lines-in-vim/"
 ---
 

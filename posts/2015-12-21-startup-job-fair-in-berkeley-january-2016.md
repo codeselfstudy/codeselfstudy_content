@@ -1,6 +1,7 @@
 ---
 title: Startup Job Fair in Berkeley, January 2016
 date: 2015-12-21
+author: Josh
 path: "/blog/startup-job-fair-in-berkeley-january-2016/"
 ---
 

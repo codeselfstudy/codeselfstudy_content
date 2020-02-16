@@ -1,6 +1,7 @@
 ---
 title: SICP Study Group, July 12, 2014
 date: 2014-07-12
+author: Josh
 path: "/blog/sicp-study-group-july-12-2014/"
 ---
 

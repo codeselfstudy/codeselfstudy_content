@@ -1,6 +1,7 @@
 ---
 title: Useful Vim Tips
 date: 2017-11-18
+author: Josh
 path: "/blog/useful-vim-tips/"
 ---
 

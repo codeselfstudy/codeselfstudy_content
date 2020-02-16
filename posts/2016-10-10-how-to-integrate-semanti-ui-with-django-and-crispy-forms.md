@@ -1,6 +1,7 @@
 ---
 title: How to Integrate Semantic UI with Django and Crispy Forms
 date: 2016-10-10
+author: Josh
 path: "/blog/how-to-integrate-semantic-ui-with-django-and-crispy-forms/"
 ---
 

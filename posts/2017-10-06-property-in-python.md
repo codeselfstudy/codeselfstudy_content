@@ -1,6 +1,7 @@
 ---
 title: @property in Python
 date: 2017-10-06
+author: Josh
 path: "/blog/property-in-python/"
 ---
 

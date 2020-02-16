@@ -1,6 +1,7 @@
 ---
 title: Command line scripting with ed and ex
 date: 2017-11-08
+author: Josh
 path: "/blog/command-line-scripting-with-ed-and-ex/"
 ---
 

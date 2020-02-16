@@ -1,6 +1,7 @@
 ---
 title: How to Send Bulk 410 Headers and 301 Redirects in Nginx
 date: 2017-08-03
+author: Josh
 path: "/blog/how-to-send-bulk-410-headers-and-301-redirects-in-nginx/"
 ---
 

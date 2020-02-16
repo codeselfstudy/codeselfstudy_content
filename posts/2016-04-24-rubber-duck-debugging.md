@@ -1,6 +1,7 @@
 ---
 title: Rubber Duck Debugging
 date: 2016-04-24
+author: Josh
 path: "/blog/rubber-duck-debugging/"
 ---
 

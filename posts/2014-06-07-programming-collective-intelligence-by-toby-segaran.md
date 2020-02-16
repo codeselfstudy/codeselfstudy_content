@@ -1,6 +1,7 @@
 ---
 title: Programming Collective Intelligence by Toby Segaran
 date: 2014-06-07
+author: Josh
 path: "/blog/programming-collective-intelligence-by-toby-segaran/"
 ---
 

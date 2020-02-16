@@ -1,6 +1,7 @@
 ---
 title: Using ex to bulk-edit files
 date: 2017-12-03
+author: Josh
 path: "/blog/using-ex-to-bulk-edit-files/"
 ---
 

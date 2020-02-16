@@ -1,6 +1,7 @@
 ---
 title: Coding Bootcamps in Berkeley and El Cerrito
 date: 2015-05-23
+author: Josh
 path: "/blog/coding-bootcamps-in-berkeley-and-el-cerrito/"
 ---
 

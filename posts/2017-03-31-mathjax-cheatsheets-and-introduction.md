@@ -1,6 +1,7 @@
 ---
 title: MathJax Cheatsheets and Introduction
 date: 2017-03-31
+author: Josh
 path: "/blog/mathjax-cheatsheets-and-introduction/"
 ---
 

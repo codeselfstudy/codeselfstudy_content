@@ -1,6 +1,7 @@
 ---
 title: Introduction to Scheme
 date: 2014-06-17
+author: Josh
 path: "/blog/introduction-to-scheme/"
 ---
 

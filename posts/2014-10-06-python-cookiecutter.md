@@ -1,6 +1,7 @@
 ---
 title: Python Cookiecutter
 date: 2014-10-06
+author: Josh
 path: "/blog/python-cookiecutter/"
 ---
 

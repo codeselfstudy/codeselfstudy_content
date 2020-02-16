@@ -1,6 +1,7 @@
 ---
 title: Quick Intro to Emacs Lisp
 date: 2014-06-08
+author: Josh
 path: "/blog/quick-intro-to-emacs-lisp/"
 ---
 
