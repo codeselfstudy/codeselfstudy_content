@@ -5,6 +5,6 @@ author: Josh
 path: "/blog/property-in-python/"
 ---
 
-How <code>@property</code> works in Python:
+How <code>\@property</code> works in Python:
 
 https://www.youtube-nocookie.com/watch?v=jCzT9XFZ5bw
