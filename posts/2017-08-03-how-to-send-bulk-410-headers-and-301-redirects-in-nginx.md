@@ -14,7 +14,7 @@ If you want to stop Google from adding those removed pages back to Google Webmas
 
 It took me a while to figure out how to do this with nginx, but I finally came up with this solution:
 
-Create a new file called <code>/etc/nginx/header-maps.conf</code>. In that file map each <em>gone</em> URL to a variable, in this case the number 1 (chosen arbitrarily).
+Create a new file called `/etc/nginx/header-maps.conf`. In that file map each <em>gone</em> URL to a variable, in this case the number 1 (chosen arbitrarily).
 
 ```nginx
 map $request_uri $gone_var {
@@ -25,7 +25,7 @@ map $request_uri $gone_var {
 }
 ```
 
-Then in your main conf file for your domain, like <code>/etc/nginx/sites-available/example.com</code> (replacing <code>example.com</code> with your domain):
+Then in your main conf file for your domain, like `/etc/nginx/sites-available/example.com` (replacing `example.com` with your domain):
 
 ```nginx
 include header-include.conf;
@@ -78,7 +78,7 @@ server {
 }
 ```
 
-If you get an error about <code>map_hash_bucket_size</code> being to small, open the <code>/etc/nginx/nginx.conf</code> file (or wherever the <code>http</code> block lives) and increase it something like this: <code>map_hash_bucket_size 256</code>
+If you get an error about `map_hash_bucket_size` being to small, open the `/etc/nginx/nginx.conf` file (or wherever the `http` block lives) and increase it something like this: `map_hash_bucket_size 256`
 
 <img src="/files/map_hash_bucket_size-nginx.png" alt="map_hash_bucket_size nginx" />
 
