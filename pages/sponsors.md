@@ -6,5 +6,5 @@ date: "2020-02-13"
 path: "/sponsors/"
 ---
 
-- <a href="/sponsor/thp-library/">Tarea Hall Pittman Library</a>
-- <a href"/sponsor/digital-ocean/">DigitalOcean</a> (free hosting credits)
+- [DigitalOcean](/sponsor/digital-ocean/) (free hosting credits)
+- [Tarea Hall Pittman Library](/sponsor/thp-library/)
