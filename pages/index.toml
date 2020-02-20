@@ -46,7 +46,7 @@ body = """
             <li>We have extra events and resources for people <a href="/autism/" class="muted-link"> on the autism spectrum</a>.</li>
         </ul>
 
-        <p>Some of the languages our members have been working with are: Python, JavaScript, Rust, Java, Scheme, Racket, Haskell, Clojure, Common Lisp, C, C++, C#, F#, Lua, Elixir, Erlang, Elm, Purescript, Ruby, Scala, PHP, Go, R, HTML/CSS, Octave, SQL and more. We're open to anything that is computer-related.</p>
+        <p>Some of the languages our members have been working with are: Python, JavaScript, Rust, WebAssembly, Java, Scheme, Racket, Haskell, Clojure, Common Lisp, C, C++, C#, F#, Lua, Elixir, Erlang, Elm, Purescript, Ruby, Scala, PHP, Go, R, HTML/CSS, Octave, SQL and more. We're open to anything that is computer-related.</p>
 
         <h2 class="title is-2">Coding Bootcamp Supplement</h2>
         <p>You can attend our meetings as a self-directed, coding bootcamp supplement or alternative. Experienced programmers in the group can offer mentorship on a project-based approach to learning.</p>
