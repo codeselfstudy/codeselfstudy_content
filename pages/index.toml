@@ -43,7 +43,7 @@ body = """
             <li>We're working towards the establishment of a local programming space and educational center in Berkeley.</li>
             <li>If you are looking for a job, we would like to help you find a job -- and if you're just programming because you love programming, or you are interested in entrepreneurship instead of getting a job, this community is ideal for those things as well.</li>
             <li>The format is self study with advice and mentorship from the more experienced members. We can help you with study plans and guidance &mdash; just let us know at a meetup or in the forum.</li>
-            <li>We have extra events and resources for people{' '} <a href="/autism/" class="muted-link"> on the autism spectrum</a>.</li>
+            <li>We have extra events and resources for people <a href="/autism/" class="muted-link"> on the autism spectrum</a>.</li>
         </ul>
 
         <p>Some of the languages our members have been working with are: Python, JavaScript, Rust, Java, Scheme, Racket, Haskell, Clojure, Common Lisp, C, C++, C#, F#, Lua, Elixir, Erlang, Elm, Purescript, Ruby, Scala, PHP, Go, R, HTML/CSS, Octave, SQL and more. We're open to anything that is computer-related.</p>
