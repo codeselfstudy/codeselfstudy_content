@@ -1,9 +1,9 @@
 ---
-title: Sponsors
-html_title: Sponsors
+title: Discounts
+html_title: Discounts & Coupon Codes
 author: Josh
 date: "2020-02-13"
-path: "/sponsors/"
+path: "/discounts/"
 ---
 
 - [DigitalOcean](/sponsor/digital-ocean/) (free hosting credits)
