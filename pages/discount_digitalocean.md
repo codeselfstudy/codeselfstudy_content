@@ -3,7 +3,7 @@ title: Sponsors
 html_title: Sponsors
 author: Josh
 date: "2020-02-13"
-path: "/sponsor/digital-ocean/"
+path: "/discount/digital-ocean/"
 ---
 
 Digital Ocean hosts parts of our website and offers $50 credit on their hosting plans. Sign up with the link below to claim your $50 credit.
