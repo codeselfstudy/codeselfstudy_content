@@ -6,5 +6,7 @@ date: "2020-02-22"
 path: "/discounts/"
 ---
 
+These companies offer discounts to our members.
+
 - [AlgoExpert](/discount/algoexpert/) (15% discount on coding interview prep)
 - [DigitalOcean](/discount/digital-ocean/) (free hosting credits)
