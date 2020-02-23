@@ -1,6 +1,6 @@
 ---
-title: Sponsors
-html_title: Sponsors
+title: DigitalOcean
+html_title: DigitalOcean Discount Code Coupon
 author: Josh
 date: "2020-02-13"
 path: "/discount/digital-ocean/"
