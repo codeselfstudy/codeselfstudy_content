@@ -8,5 +8,5 @@ path: "/discounts/"
 
 These companies offer discounts to our members.
 
-- [AlgoExpert](/discount/algoexpert/) (15% discount on coding interview prep)
+- [AlgoExpert](/discount/algoexpert/) (discount coupon for coding interview prep)
 - [DigitalOcean](/discount/digital-ocean/) (free hosting credits)
