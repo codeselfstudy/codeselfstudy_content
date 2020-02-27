@@ -1,5 +1,5 @@
 ---
-title: Fixing a Docker Bug: /var/run/docker.sock
+title: "Fixing a Docker Bug: /var/run/docker.sock"
 date: 2016-08-13
 author: Josh
 path: "/blog/fixing-a-docker-bug-varrundockersock/"
