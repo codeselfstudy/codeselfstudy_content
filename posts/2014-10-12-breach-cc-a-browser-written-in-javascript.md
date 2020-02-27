@@ -1,5 +1,5 @@
 ---
-title: Breach.cc: A Browser Written in JavaScript
+title: "Breach.cc: A Browser Written in JavaScript"
 date: 2014-10-12
 author: Josh
 path: "/blog/breachcc-a-browser-written-in-javascript/"
